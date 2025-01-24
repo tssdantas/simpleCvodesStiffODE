@@ -7,8 +7,7 @@ Um exemplo simples que compila e resolve um problema de uma ODE stiff com o CVOD
 ## Instalação do CVODES
 No terminal do WSL ou Linux (Ubuntu 22.04) inserir os seguintos comandos
 * sudo apt-get update
-* sudo apt-get install libsundials-dev 
-* (se não funcionar tentar sudo apt-get install libsundials-cvodes4)
+* sudo apt-get install libsundials-dev libsundials-cvodes
 
 
 ## Instruções para compilar o exemplo
