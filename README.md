@@ -13,4 +13,4 @@ OBS: E importante que seja com o Ubuntu versao 22.04
 ## Instruções para compilar o exemplo
 No terminal do WSL ou Linux inserir os seguintos comandos
 * make
-* ./stiff_ode
+* ./solverode
